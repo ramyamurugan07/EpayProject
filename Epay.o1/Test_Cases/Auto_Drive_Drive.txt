@@ -1,0 +1,24 @@
+Click by ID#^*^#Provide the ID#^*^#com.amazon.mShop.android.shopping:id/sign_in_button#^*^##^*^##^*^#
+Type by Classname#^*^#Provide the Class Name & Text#^*^#android.view.View#^*^#XXXXXXXXXXX#^*^##^*^#
+Click by ID#^*^#Provide the ID#^*^#continue#^*^##^*^##^*^#
+Type by ID#^*^#Provide the ID & Text#^*^#ap_password#^*^#YYYYYYYY#^*^##^*^#
+Click by ID#^*^#Provide the ID#^*^#signInSubmit#^*^##^*^##^*^#
+Click by Classname#^*^#Provide the Class Name#^*^#android.widget.Button#^*^##^*^##^*^#
+Get Text#^*^#Provide get class name and Input class name#^*^#android.widget.Image#^*^#android.widget.EditText#^*^##^*^#
+Type by ID#^*^#Provide the ID & Text#^*^#android.widget.EditText#^*^#332434#^*^##^*^#
+Click by ID#^*^#Provide the ID#^*^#android.widget.Button#^*^##^*^##^*^#
+Type by ID#^*^#Provide the ID & Text#^*^#com.amazon.mShop.android.shopping:id/rs_search_src_text#^*^#65-inch TV#^*^##^*^#
+Click by Index#^*^#Provide get class name and Index#^*^#android.widget.LinearLayout#^*^#1#^*^##^*^#
+Validation#^*^#Provide get class name and Text value to verify#^*^#android.view.View#^*^#TCL#^*^##^*^#
+Validation#^*^#Provide get class name and Text value to verify#^*^#android.view.View#^*^#TCL 163.96 cm (65 inches)  AI 4K UHD Certified Android Smart LED TV 65P8 (Black) (2019 Model)#^*^##^*^#
+Validation#^*^#Provide get class name and Text value to verify#^*^#android.widget.Button#^*^# Size name: 65 inches #^*^##^*^#
+Validation#^*^#Provide get class name and Text value to verify#^*^#android.widget.Button#^*^#Free TV Installation : Installation Added+₹ 0.00per unit#^*^##^*^#
+Validation#^*^#Provide get class name and Text value to verify#^*^#android.view.View#^*^#rupees 52,999#^*^##^*^#
+ScrollTo#^*^#Provide the Class name#^*^#android.widget.Button#^*^##^*^##^*^#
+Click by ID#^*^#Provide the ID#^*^#com.amazon.mShop.android.shopping:id/rs_cart_src_add#^*^##^*^##^*^#
+Click by ID#^*^#Provide the ID#^*^#proceedToCheckout#^*^##^*^##^*^#
+Click by ID#^*^#Provide the ID#^*^#usethisAddress#^*^##^*^##^*^#
+Click by ID#^*^#Provide the ID#^*^#Continue#^*^##^*^##^*^#
+Type by Classname#^*^#Provide the Class Name & Text#^*^#android.view.View#^*^#10-2 PM#^*^##^*^#
+Click by ID#^*^#Provide the ID#^*^#Continue#^*^##^*^##^*^#
+Click by Index#^*^#Provide get class name and Index#^*^#android.widget.Button#^*^#1#^*^##^*^#

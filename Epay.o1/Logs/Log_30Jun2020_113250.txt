@@ -1,0 +1,13 @@
+
+*****************************
+30-Jun-20 11:32
+*****************************
+
+30-Jun-20 11:32 - createFile() Finished
+30-Jun-20 11:32 - LaunchApp() Started - Amazon_shopping.apk
+30-Jun-20 11:33 - App launched Successfully
+30-Jun-20 11:33 - LaunchApp()  Finished - Amazon_shopping.apk
+30-Jun-20 11:33 - sProtocolDriveDrive
+30-Jun-20 11:33 - iRetryCounter == 0 :: 0
+30-Jun-20 11:33 - sProtocol :Drive
+30-Jun-20 11:33 - Testcase :Drive started....

@@ -1,0 +1,20 @@
+
+*****************************
+30-Jun-20 11:35
+*****************************
+
+30-Jun-20 11:35 - createFile() Finished
+30-Jun-20 11:35 - LaunchApp() Started - Amazon_shopping.apk
+30-Jun-20 11:36 - App launched Successfully
+30-Jun-20 11:36 - LaunchApp()  Finished - Amazon_shopping.apk
+30-Jun-20 11:36 - sProtocolDriveDrive
+30-Jun-20 11:36 - iRetryCounter == 0 :: 0
+30-Jun-20 11:36 - sProtocol :Drive
+30-Jun-20 11:36 - Testcase :Drive started....
+30-Jun-20 11:36 - Click_By_ID() Started - Cart
+30-Jun-20 11:36 - Testcase :Drive finished....
+30-Jun-20 11:36 - sProtocol
+30-Jun-20 11:36 - Execution completed
+30-Jun-20 11:36 - Drive			- PASSED			- Time Taken: 8 Secs (0.13 Mins)
+
+30-Jun-20 11:36 - Sending an EMail ........... 

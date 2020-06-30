@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/email/javax.mail-1.6.2.jar"/>
+	<classpathentry kind="lib" path="libs/poi/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/poi/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="libs/poi/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="libs/poi/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="libs/poi/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/poi/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="libs/poi/curvesapi-1.05.jar"/>
+	<classpathentry kind="lib" path="libs/poi/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="libs/poi/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/poi/jaxb-impl-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/poi/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="libs/poi/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="libs/poi/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/poi/poi-examples-4.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/poi/poi-excelant-4.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/poi/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/poi/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/poi/poi-scratchpad-4.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/poi/xmlbeans-3.0.2.jar"/>
+	<classpathentry kind="lib" path="libs/selenium/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="libs/selenium/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="libs/selenium/guava-27.1-jre.jar"/>
+	<classpathentry kind="lib" path="libs/selenium/java-client-7.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/selenium/okhttp-3.14.0.jar"/>
+	<classpathentry kind="lib" path="libs/selenium/okio-1.17.2.jar"/>
+	<classpathentry kind="lib" path="libs/selenium/selenium-api-4.0.0-alpha-1.jar"/>
+	<classpathentry kind="lib" path="libs/selenium/selenium-chrome-driver-4.0.0-alpha-2.jar"/>
+	<classpathentry kind="lib" path="libs/selenium/selenium-chromium-driver-4.0.0-alpha-2.jar"/>
+	<classpathentry kind="lib" path="libs/selenium/selenium-ie-driver-4.0.0-alpha-2.jar"/>
+	<classpathentry kind="lib" path="libs/selenium/selenium-java-4.0.0-alpha-2.jar"/>
+	<classpathentry kind="lib" path="libs/selenium/selenium-remote-driver-4.0.0-alpha-1.jar"/>
+	<classpathentry kind="lib" path="libs/selenium/selenium-support-4.0.0-alpha-1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

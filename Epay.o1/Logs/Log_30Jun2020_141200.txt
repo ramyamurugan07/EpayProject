@@ -1,0 +1,7 @@
+
+*****************************
+30-Jun-20 02:12
+*****************************
+
+30-Jun-20 02:12 - createFile() Finished
+30-Jun-20 02:12 - LaunchApp() Started - Amazon_shopping.apk
